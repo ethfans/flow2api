@@ -89,6 +89,10 @@ python main.py
 
 ## 📋 支持的模型
 
+### 如何使用：
+token提取方法:
+登录https://labs.google/fx/tools/flow ，在cookie里找__Secure-next-auth.session-token即为ST的值
+
 ### 图片生成
 
 | 模型名称 | 说明| 尺寸 |
